@@ -1,3 +1,6 @@
+###PROGRAMACION AVANZADA
+###Nombre: Jorge Campoverde
+
 from tkinter import *
 
 tk = Tk()
